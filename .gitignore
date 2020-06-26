@@ -5,3 +5,5 @@
 *.ali
 
 node_modules/
+
+config/default.json
