@@ -11,7 +11,7 @@ import store from './store';
 import './App.css';
 
 const App = () => (
-  <Provider store={{store}}>
+  <Provider store={store}>
     <Router>
       <Fragment>
         <Navbar />
