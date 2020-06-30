@@ -11,6 +11,7 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
   git clone https://github.com/ashraf-kabir/mern-devconnector.git
   ```
 2. install npm packages
+
   1. install backend packages
   ```bash
   cd mern-devconnector
