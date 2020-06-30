@@ -30,9 +30,8 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
     cd mern-devconnector
     cd config
     cat >> default.json
-    Ctrl+c
     ```
-    (Ctrl+c to exit command)
+    (Ctrl+c to exit previous command)
     
     ##### sample code for default.json
     ```json
