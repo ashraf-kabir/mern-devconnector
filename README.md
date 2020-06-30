@@ -53,3 +53,12 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
     npm run dev
     ```
     #### note: both backend & frontend server will start at once with the above command.
+
+### App Description:
+1. user can register & sign in
+2. user can create, edit & update their developer profile with various info like-> education, exp, social links, location, github username. etc.
+3. user can delete their own account
+4. user can view other developers profile with their profie description & github public repositories
+5. user can create, edit, update & delete posts
+6. user can create & delete comments on the posts
+7. user can like or dislike the posts
