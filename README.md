@@ -23,7 +23,7 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
     ```
 3. go to config folder at mern-devconnector/config & create default.json for pasting mongoDB connection, jwtSecret as secret & githubToken for reading github repos of developers.
 
-sample code for default.json
+    ##### sample code for default.json
     ```json
     {
       "mongoURI": "YOUR_MONGODB_URI",
@@ -31,6 +31,7 @@ sample code for default.json
       "githubToken": "YOUR_GITHUB_TOKEN"
     }
     ```
+    ##### Instructions:
     1. for mongodb atlas database creation follow this tutorial->https://www.youtube.com/watch?v=KKyag6t98g8
     2. you can use any random string as jwtSecret
     3. for generating github token follow this link->https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
