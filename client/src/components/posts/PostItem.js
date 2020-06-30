@@ -64,6 +64,10 @@ const PostItem = ({
   </div>
 );
 
+PostItem.defaultProps = {
+  showActions: true,
+};
+
 PostItem.propTypes = {
   post: PropTypes.object.isRequired,
   auth: PropTypes.object.isRequired,
@@ -80,4 +84,6 @@ const mapStateToProps = (state) => ({
   showActions: PropTypes.bool,
 });
 
-export default connect(mapStateToProps, { addLike, removeLike, deletePost })(PostItem);
+export default connect(mapStateToProps, { addLike, removeLike, deletePost })(
+  PostItem
+);
