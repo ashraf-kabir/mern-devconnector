@@ -52,3 +52,4 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
     mern-devconnector
     npm run dev
     ```
+    #### note: both backend & frontend server will start at once with the above command.
