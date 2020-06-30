@@ -4,7 +4,9 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
 
 > Frontend-> React & Redux-Reduce
 
-> Backend-> Nodejs, Expressjs
+> Backend-> Nodejs & Expressjs
+
+> Database-> MongoDB Atlas
 
 ## Installation process
 1. clone the repo using this command
