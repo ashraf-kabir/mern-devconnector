@@ -29,4 +29,5 @@ a. for mongodb atlas database creation follow this tutorial->https://www.youtube
 b. you can use any random string as jwtSecret
 c. for generating github token follow this link->https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
 
-4. deploy this on your localserver by using this command at the parent folder of the project on mern-devconnector/->npm run dev
+4. deploy this on your localserver by using this command at the parent folder of the project on mern-devconnector/
+  > npm run dev
