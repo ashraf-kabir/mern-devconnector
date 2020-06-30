@@ -17,13 +17,13 @@ Backend-> Nodejs
 3. go to config folder at mern-devconnector/config & create default.json for pasting mongoDB connection, jwtSecret as secret & githubToken for reading github repos of developers.
 
 sample code for default.json
-...
+```json
 {
   "mongoURI": "YOUR_MONGODB_URI",
   "jwtSecret": "YOUR_SECRET",
   "githubToken": "YOUR_GITHUB_TOKEN"
 }
-...
+```
 a. for mongodb atlas database creation follow this tutorial->https://www.youtube.com/watch?v=KKyag6t98g8
 b. you can use any random string as jwtSecret
 c. for generating github token follow this link->https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
