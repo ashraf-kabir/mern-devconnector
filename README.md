@@ -12,7 +12,7 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
   ```
 2. install npm packages-
   1. install backend packages using command at project parent folder
-  
+
     ```bash
     cd mern-devconnector
     npm install
@@ -38,7 +38,7 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
   3. for generating github token follow this link->https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
   4. #### note: gitignore the default.json file
 
-4. deploy this on your local server by using this command
+4. <b>deploy this project</b> on your local server by using this command
   ```bash
   mern-devconnector
   npm run dev
