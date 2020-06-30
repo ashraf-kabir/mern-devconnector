@@ -7,7 +7,7 @@ Backend-> Nodejs
 
 ## Installation process
 1. clone the repo using this command
-  > <em>git clone https://github.com/ashraf-kabir/mern-devconnector.git</em>
+  > <>git clone https://github.com/ashraf-kabir/mern-devconnector.git<b>
 
 2. install npm packages-
   a. install backend packages using command at project parent folder->npm install
