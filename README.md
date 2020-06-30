@@ -10,7 +10,8 @@ Backend-> Nodejs
   > <b>git clone https://github.com/ashraf-kabir/mern-devconnector.git<b>
 
 2. install npm packages-
-  a. install backend packages using command at project parent folder->npm install
+  a. install backend packages using command at project parent folder
+  > npm install
   b. install frontend packages command
   > cd client
   > npm install
