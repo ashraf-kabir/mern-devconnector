@@ -9,11 +9,11 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
 > Database-> MongoDB Atlas
 
 ## Installation process
-1. clone the repo using this command
+1. #### clone the repo using this command
     ```bash
     git clone https://github.com/ashraf-kabir/mern-devconnector.git
     ```
-2. install npm packages
+2. #### install npm packages
     1. install backend packages
     ```bash
     cd mern-devconnector
@@ -26,6 +26,14 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
     ```
 3. go to config folder at mern-devconnector/config & create default.json for pasting mongoDB connection, jwtSecret as secret & githubToken for reading github repos of developers.
 
+    ```bash
+    cd mern-devconnector
+    cd config
+    cat >> default.json
+    Ctrl+c
+    ```
+    (Ctrl+c to exit command)
+    
     ##### sample code for default.json
     ```json
     {
