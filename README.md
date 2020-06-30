@@ -12,11 +12,13 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
   ```
 2. install npm packages-
   1. install backend packages using command at project parent folder
+  
     ```bash
     cd mern-devconnector
     npm install
     ```
   2. install frontend packages command
+
     ```bash
     cd client
     npm install
