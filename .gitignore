@@ -1,9 +1,11 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
-
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 node_modules/
-
-config/default.json
+bin/
+obj/
+.vs/
