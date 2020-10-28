@@ -63,4 +63,4 @@ MERN Stack DevConnector using MongoDB Atlas, Express JS, Reactjs & Nodejs.
     6. user can create & delete comments on the posts
     7. user can like or dislike the posts
 
-5. <b>Deployed on</br> https://whispering-brushlands-59184.herokuapp.com/ 
+5. <b>Deployed on</br> https://dev-connector-ak.herokuapp.com/
